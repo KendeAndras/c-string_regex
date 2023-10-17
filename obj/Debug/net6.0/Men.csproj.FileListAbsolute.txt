@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\f26\C#\Men\bin\Debug\net6.0\Men.exe
+C:\Users\f26xc0\Desktop\f26\C#\Men\bin\Debug\net6.0\Men.deps.json
+C:\Users\f26xc0\Desktop\f26\C#\Men\bin\Debug\net6.0\Men.runtimeconfig.json
+C:\Users\f26xc0\Desktop\f26\C#\Men\bin\Debug\net6.0\Men.dll
+C:\Users\f26xc0\Desktop\f26\C#\Men\bin\Debug\net6.0\Men.pdb
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.dll
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\refint\Men.dll
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.pdb
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\Men.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\f26\C#\Men\obj\Debug\net6.0\ref\Men.dll
